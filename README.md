@@ -4,6 +4,6 @@
 
 一、打开“软件”文件夹，找到“UI_etherscan.exe”文件，双击运行
 
-![image-20221114235205796](C:\Users\ahjsjmk\AppData\Roaming\Typora\typora-user-images\image-20221114235205796.png)
+![image-20221114235205796](https://github.com/victor-cilay/Phishing-node-visualization/blob/main/Screenshot/Screenshot%202023-04-14%20152247.png)
 
 一、打开“UI相关代码”文件夹，打开”UI_etherscan.py“文件，安装相关库后运行
